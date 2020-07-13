@@ -1,2 +1,3 @@
 my name is Egwolo August 
 I'm currtently a Dufuna student.
+I have been able to push my first push to github
